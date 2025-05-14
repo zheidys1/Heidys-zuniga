@@ -37,4 +37,4 @@
 ---
 
 ### 💬 Quer bater um papo técnico?
-Me chama no [LinkedIn](https://linkedin.com/in/seulinkedin) ou confira meus repositórios aqui mesmo!
+Me chama no [LinkedIn](https://www.linkedin.com/in/heidys-zuniga/)
