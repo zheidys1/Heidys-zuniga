@@ -1,6 +1,6 @@
-# Heidys-zuniga
+# PORTAFOLIO
 
-# 👩‍💻 Habilidades Técnicas da Heidys Zuniga
+# 👩‍💻 Habilidades Técnicas
 
 ## 🌐 Tecnologias e Ferramentas
 
